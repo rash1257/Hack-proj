@@ -1,2 +1,2 @@
-# Hack-proj
-Project Description
+# Echoverse-Audiobook
+Echoverse is an AI-powered, web-based application designed to empower visually impaired individuals by providing immediate and independent access to printed materials. Users can simply upload an image or a scanned PDF document, and the platform seamlessly converts the extracted text into clear, natural-sounding audio. Unlike standard text-to-speech tools, Assistify features intelligent narration modes, allowing users to choose between a neutral reading or a simplified explanatory tone for better comprehension. Furthermore, its hands-free, voice-activated controls enable complete auditory interaction, making it a truly accessible and transformative solution for overcoming information barriers and promoting inclusivity.
